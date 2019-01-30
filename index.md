@@ -1,3 +1,3 @@
-# bruci.pw
+# bruci
 
-go away nerd
+go away 
