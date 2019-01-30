@@ -1,3 +1,3 @@
-# Welcome to my blog
+# bruci.pw
 
-I'm glad you are here. I plan to talk about ...
+go away nerd
