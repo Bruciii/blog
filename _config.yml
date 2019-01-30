@@ -11,6 +11,6 @@ twitter_username: your-twitter-handle
 github_username:  Bruciii
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-
-remote_theme: mattvh/solar-theme-jekyll
+theme: minima
+rem#ote_th#eme: mattvh/solar-theme-jekyll
 
