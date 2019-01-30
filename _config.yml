@@ -12,4 +12,4 @@ github_username:  Bruciii
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-solar
+remote_theme: solar-theme-jekyll
